@@ -1,0 +1,1659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"article",
+				"article_h1"
+			],
+			[
+				"artic",
+				"article_h2"
+			],
+			[
+				"do",
+				"download"
+			],
+			[
+				"un",
+				"unidade"
+			],
+			[
+				"cover",
+				"cover-fachada"
+			],
+			[
+				"ape",
+				"append"
+			],
+			[
+				"ac",
+				"acesso"
+			],
+			[
+				"Nome",
+				"autorNomes"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"ati",
+				"atividade"
+			],
+			[
+				"re",
+				"referencias"
+			],
+			[
+				"u",
+				"unidade"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"book",
+				"book-unidade"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"app-",
+				"app-font-app"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"foin",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"app-cor-pr",
+				"app-cor-preto-0"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"o",
+				"offset"
+			],
+			[
+				"app",
+				"app-display"
+			],
+			[
+				"app-ati",
+				"app-ati-item"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"au",
+				"autores"
+			],
+			[
+				"data-b",
+				"data-book-unidade"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"par",
+				"parseHTML"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"arr",
+				"array_key_exists"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"j",
+				"json_encode"
+			],
+			[
+				"get",
+				"gettype"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"lo",
+				"log	log"
+			],
+			[
+				"ph",
+				"php"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"que",
+				"queue"
+			],
+			[
+				"data",
+				"data-app-ctrl"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"w",
+				"while"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"sec",
+				"section-page-item"
+			],
+			[
+				"ap",
+				"app-display"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"app-cor-pa",
+				"app-cor-padrao"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"app-cor-",
+				"app-cor-preto-10"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"app-cor-pre",
+				"app-cor-preto-60"
+			],
+			[
+				"tog",
+				"toggleClass"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"proce",
+				"proccess"
+			],
+			[
+				"ge",
+				"gettype"
+			],
+			[
+				"replace",
+				"str_replace"
+			],
+			[
+				"getw",
+				"getcwd"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"file_",
+				"file_open"
+			],
+			[
+				"array_re",
+				"array_replace_recursive"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"obj",
+				"is_object"
+			],
+			[
+				"array_keys",
+				"array_key_exists"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"pat",
+				"path"
+			],
+			[
+				"jos",
+				"json_decode"
+			],
+			[
+				"fetc",
+				"file_get_contents"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"app-cor",
+				"app-cor-preto-0"
+			],
+			[
+				"bore",
+				"border-color"
+			],
+			[
+				"app-corp",
+				"app-cor-padrao-60"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"app-cor-preto-",
+				"app-cor-preto-0"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"js",
+				"JavaScript"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"app-co",
+				"app-cor-padrao-80"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"app-fon",
+				"app-font-app"
+			],
+			[
+				"app-br",
+				"app-cover-btn-pdd"
+			],
+			[
+				"app-cover",
+				"app-cover-btn-font"
+			],
+			[
+				"baco",
+				"background-color"
+			],
+			[
+				"app-cor-preto",
+				"app-cor-preto-0"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"app-cor-r",
+				"app-cor-preto-60"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pi",
+				"pointer"
+			],
+			[
+				"border-c",
+				"border-left-color"
+			],
+			[
+				"background-C",
+				"background-color"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"cor",
+				"color"
+			],
+			[
+				"the",
+				"thead	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"gett",
+				"gettype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/index.html",
+			"settings":
+			{
+				"buffer_size": 336,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"expandSelectionToParagraph"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word"
+	],
+	"file_history":
+	[
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/index.php",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/index.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Bioquímica Aplicada ao Exercício Físico [911a54317]/02.Editoração/.outros/Exportado Indesign/Bioquímica Aplicada ao Exercício Físico [911a54317] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Organização curricular no Ensino Superior [d9539f243]/02.Editoração/.outros/Exportado Indesign/Organização curricular no Ensino Superior [d9539f243] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 7/Prática empreendedora [29a4f9202]/02.Editoração/02.3.Marcacao/pratica-empreendedora-29a4f9202.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Coaching - Ferramentas e Técnicas [8e8dfeb06]/02.Editoração/.outros/Exportado Indesign/Coaching - Ferramentas e Técnicas [8e8dfeb06] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Finanças Empresariais [9dbd13461]/02.Editoração/.outros/Exportado Indesign/Finanças Empresariais [9dbd13461] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Pesquisa em Marketing [84b93b249]/02.Editoração/.outros/Exportado Indesign/Pesquisa em Marketing [84b93b249] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Agronegócio - Características, Perspectivas e Comércio... [225896fa5]/02.Editoração/.outros/Exportado Indesign/Agronegócio - Características ... [225896fa5] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Metodologia da Educação Ambiental [282283c54]/02.Editoração/.outros/Exportado Indesign/Metodologia da Educação Ambiental [282283c54] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/02.Editoração/.outros/Exportado Indesign/Auditoria Ambiental [131ea6d42] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Sistema de Informações Geográficas [7b41d491b]/02.Editoração/.outros/Exportado Indesign/Sistema de Informações Geográficas [7b41d491b] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Publicidade e Propaganda para Consultorias [de4856e3b]/02.Editoração/.outros/Exportado Indesign/Publicidade e Propaganda para Consultorias [de4856e3b] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Recrutamento e Seleção [f4dc04742]/02.Editoração/.outros/Exportado Indesign/Recrutamento e Seleção [f4dc04742] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Transtornos psiquiátricos durante a gestação, na cria... [28191e651]/02.Editoração/.outros/Exportado Indesign/Transtornos psiquiátricos ... [28191e651] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Fisiopatologia e síndromes geriátricas [8f01de42f]/02.Editoração/.outros/Exportado Indesign/Fisiopatologia e síndromes geriátricas [8f01de42f] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Nutrição e suplementação aplicada ao alto rendimento [023298ae6]/02.Editoração/.outros/Exportado Indesign/Nutrição e suplementação aplicada ao alto rendimento [023298ae6] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Gerenciamento em oncologia [8a7e8ba0b]/02.Editoração/.outros/Exportado Indesign/Gerenciamento em oncologia [8a7e8ba0b] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Tratamento multidisciplinar aplicado à obesidade [c8dbf2905]/02.Editoração/.outros/Exportado Indesign/Tratamento multidisciplinar aplicado à obesidade [c8dbf2905] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Aspectos históricos e socioculturais do uso e abuso de d... [dd9649246]/02.Editoração/.outros/Exportado Indesign/Aspectos históricos e socioculturais ... [dd9649246] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Teatro - Expressão,  performance e linguagem corporal [097f16749]/02.Editoração/.outros/Exportado Indesign/Teatro - Expressão,  performance e linguagem corporal [097f16749] - unidade ii - marc.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Dificuldades de Aprendizagem na Matemática [993926e59]/02.Editoração/.outros/Exportado Indesign/Dificuldades de Aprendizagem na Matemática [993926e59] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Dimensões da escola - currículo e projeto político pe... [1b0dce061]/02.Editoração/.outros/Exportado Indesign/Dimensões da escola ... [1b0dce061] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Materiais Didáticos na EAD - do processo de produção... [7520259e4]/02.Editoração/.outros/Exportado Indesign/Materiais Didáticos na EAD... [7520259e4] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Didática no Ensino do homem e natureza - Matemática, C... [d4e321fb4]/02.Editoração/.outros/Exportado Indesign/Didática no Ensino do ... [d4e321fb4] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Deficits - aspectos gerais e conceituais [8b34f339b]/02.Editoração/.outros/Exportado Indesign/Deficits - aspectos gerais e conceituais [8b34f339b] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Neuropedagogia Aplicada [81baeeae4]/02.Editoração/.outros/Exportado Indesign/Neuropedagogia Aplicada [81baeeae4] - unidade ii - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/.temp/trash/trata.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/.temp/trata.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/.temp/bkp/trata.html",
+		"/D/projeto/web/area51/electron-quick-start/index.html",
+		"/D/projeto/web/area51/electron-quick-start/renderer.js",
+		"/C/Users/Usuário/Desktop/temp/Nova pasta/analise-de-indicadores-economico-financeiros-b7cbb1795-unidade-i.html",
+		"/D/projeto/web/area51/electron-api-demos-master/sections/windows/modal.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Teatro - Expressão,  performance e linguagem corporal [097f16749]/02.Editoração/02.3.Marcacao/teatro-expressao-performance-e-linguagem-corporal-097f16749.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Teatro - Expressão,  performance e linguagem corporal [097f16749]/02.Editoração/02.3.Marcacao/Teatro - Expressão,  performance e linguagem corporal [097f16749] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Finanças Empresariais [9dbd13461]/02.Editoração/02.3.Marcacao/Finanças Empresariais [9dbd13461] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Finanças Empresariais [9dbd13461]/02.Editoração/02.3.Marcacao/financas-empresariais-9dbd13461.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Recrutamento e Seleção [f4dc04742]/02.Editoração/02.3.Marcacao/recrutamento-e-selecao-f4dc04742.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Recrutamento e Seleção [f4dc04742]/02.Editoração/02.3.Marcacao/Recrutamento e Seleção [f4dc04742] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Publicidade e Propaganda para Consultorias [de4856e3b]/02.Editoração/02.3.Marcacao/publicidade-e-propaganda-para-consultorias-de4856e3b.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Publicidade e Propaganda para Consultorias [de4856e3b]/02.Editoração/02.3.Marcacao/Publicidade e Propaganda para Consultorias [de4856e3b] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Sistema de Informações Geográficas [7b41d491b]/02.Editoração/02.3.Marcacao/Sistema de Informações Geográficas [7b41d491b] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Sistema de Informações Geográficas [7b41d491b]/02.Editoração/02.3.Marcacao/sistema-de-informacoes-geograficas-7b41d491b.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Metodologia da Educação Ambiental [282283c54]/02.Editoração/.outros/Marcacao/Metodologia da Educação Ambiental [282283c54] - video.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Fisiopatologia e síndromes geriátricas [8f01de42f]/02.Editoração/.outros/Marcacao/Fisiopatologia e síndromes geriátricas [8f01de42f] - video.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Fisiopatologia e síndromes geriátricas [8f01de42f]/02.Editoração/02.3.Marcacao/fisiopatologia-e-sindromes-geriatricas-8f01de42f.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Fisiopatologia e síndromes geriátricas [8f01de42f]/02.Editoração/02.3.Marcacao/Fisiopatologia e síndromes geriátricas [8f01de42f] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Bioquímica Aplicada ao Exercício Físico [911a54317]/02.Editoração/02.3.Marcacao/Bioquímica Aplicada ao Exercício Físico [911a54317] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 7/Análise de indicadores econômico-financeiros [b7cbb1795]/02.Editoração/02.3.Marcacao/analise-de-indicadores-economico-financeiros-b7cbb1795.html",
+		"/C/Users/Usuário/Desktop/temp/Nova pasta/analise-de-indicadores-economico-financeiros-b7cbb1795.html",
+		"/C/Users/Usuário/Downloads/analise-de-indicadores-economico-financeiros-b7cbb1795-unidade-i.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 7/Tópicos de conteúdos da física [5df09fa70]/02.Editoração/02.1.Exportado/app/topicos-de-conteudos-da-fisica-5df09fa70-unidade-i.html",
+		"/C/Users/Usuário/Downloads/financas-para-micro-e-pequenas-empresas-624867357-unidade-i.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 7/Tópicos de conteúdos da física [5df09fa70]/02.Editoração/02.3.Marcacao/topicos-de-conteudos-da-fisica-5df09fa70.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Coaching - Ferramentas e Técnicas [8e8dfeb06]/02.Editoração/.outros/Marcacao/Coaching - Ferramentas e Técnicas [8e8dfeb06] - video.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Finanças para micro e pequenas empresas [624867357]/02.Editoração/02.3.Marcacao/financas-para-micro-e-pequenas-empresas-624867357.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Metodologia da Educação Ambiental [282283c54]/02.Editoração/02.3.Marcacao/metodologia-da-educacao-ambiental-282283c54.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Bioquímica Aplicada ao Exercício Físico [911a54317]/02.Editoração/02.3.Marcacao/bioquimica-aplicada-ao-exercicio-fisico-911a54317.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Didática no Ensino do homem e natureza - Matemática, C... [d4e321fb4]/02.Editoração/.outros/Exportado Indesign/Didática no Ensino do ... [d4e321fb4] - pre-pos-textual - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Pesquisa em Marketing [84b93b249]/02.Editoração/02.3.Marcacao/Pesquisa em Marketing [84b93b249] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Pesquisa em Marketing [84b93b249]/02.Editoração/02.3.Marcacao/pesquisa-em-marketing-84b93b249.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Coaching - Ferramentas e Técnicas [8e8dfeb06]/02.Editoração/02.3.Marcacao/coaching-ferramentas-e-tecnicas-8e8dfeb06.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Coaching - Ferramentas e Técnicas [8e8dfeb06]/02.Editoração/02.3.Marcacao/Coaching - Ferramentas e Técnicas [8e8dfeb06] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Agronegócio - Características, Perspectivas e Comércio... [225896fa5]/02.Editoração/02.3.Marcacao/Agronegócio - Características, Perspectivas e Comércio... [225896fa5] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Agronegócio - Características, Perspectivas e Comércio... [225896fa5]/02.Editoração/02.3.Marcacao/agronegocio-caracteristicas-perspectivas-e-comercio-exterior-225896fa5.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Recrutamento e Seleção [f4dc04742]/02.Editoração/.outros/Marcacao/Recrutamento e Seleção [f4dc04742] - video.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/02.Editoração/02.3.Marcacao/Auditoria Ambiental [131ea6d42] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/02.Editoração/02.3.Marcacao/auditoria-ambiental-131ea6d42.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Metodologia da Educação Ambiental [282283c54]/02.Editoração/02.3.Marcacao/Metodologia da Educação Ambiental [282283c54] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Nutrição e suplementação aplicada ao alto rendimento [023298ae6]/02.Editoração/02.3.Marcacao/Nutrição e suplementação aplicada ao alto rendimento [023298ae6] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Nutrição e suplementação aplicada ao alto rendimento [023298ae6]/02.Editoração/02.3.Marcacao/nutricao-e-suplementacao-aplicada-ao-alto-rendimento-023298ae6.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Transtornos psiquiátricos durante a gestação, na cria... [28191e651]/02.Editoração/02.3.Marcacao/transtornos-psiquiatricos-durante-a-gestacao-na-crianca-e-28191e651.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Transtornos psiquiátricos durante a gestação, na cria... [28191e651]/02.Editoração/02.3.Marcacao/Transtornos psiquiátricos durante a gestação, na cria... [28191e651] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Aspectos históricos e socioculturais do uso e abuso de d... [dd9649246]/02.Editoração/02.3.Marcacao/aspectos-historicos-e-socioculturais-do-uso-e-abuso-de-dr-dd9649246.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Aspectos históricos e socioculturais do uso e abuso de d... [dd9649246]/02.Editoração/02.3.Marcacao/Aspectos históricos e socioculturais do uso e abuso de d... [dd9649246] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Tratamento multidisciplinar aplicado à obesidade [c8dbf2905]/02.Editoração/02.3.Marcacao/tratamento-multidisciplinar-aplicado-a-obesidade-c8dbf2905.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Tratamento multidisciplinar aplicado à obesidade [c8dbf2905]/02.Editoração/02.3.Marcacao/Tratamento multidisciplinar aplicado à obesidade [c8dbf2905] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Gerenciamento em oncologia [8a7e8ba0b]/02.Editoração/02.3.Marcacao/Gerenciamento em oncologia [8a7e8ba0b] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Gerenciamento em oncologia [8a7e8ba0b]/02.Editoração/02.3.Marcacao/gerenciamento-em-oncologia-8a7e8ba0b.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Dimensões da escola - currículo e projeto político pe... [1b0dce061]/02.Editoração/02.3.Marcacao/dimensoes-da-escola-curriculo-e-projeto-politico-pedagogico-1b0dce061.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Dimensões da escola - currículo e projeto político pe... [1b0dce061]/02.Editoração/02.3.Marcacao/Dimensões da escola - currículo e projeto político pe... [1b0dce061] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Dificuldades de Aprendizagem na Matemática [993926e59]/02.Editoração/02.3.Marcacao/dificuldades-de-aprendizagem-na-matematica-993926e59.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Dificuldades de Aprendizagem na Matemática [993926e59]/02.Editoração/02.3.Marcacao/Dificuldades de Aprendizagem na Matemática [993926e59] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Didática no Ensino do homem e natureza - Matemática, C... [d4e321fb4]/02.Editoração/02.3.Marcacao/didatica-no-ensino-do-homem-e-natureza-matematica-ciencia-d4e321fb4.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Didática no Ensino do homem e natureza - Matemática, C... [d4e321fb4]/02.Editoração/02.3.Marcacao/Didática no Ensino do homem e natureza - Matemática, C... [d4e321fb4] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Materiais Didáticos na EAD - do processo de produção... [7520259e4]/02.Editoração/02.3.Marcacao/materiais-didaticos-na-ead-do-processo-de-producao-e-da-r-7520259e4.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Materiais Didáticos na EAD - do processo de produção... [7520259e4]/02.Editoração/02.3.Marcacao/Materiais Didáticos na EAD - do processo de produção... [7520259e4] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Deficits - aspectos gerais e conceituais [8b34f339b]/02.Editoração/02.3.Marcacao/Deficits - aspectos gerais e conceituais [8b34f339b] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Deficits - aspectos gerais e conceituais [8b34f339b]/02.Editoração/02.3.Marcacao/deficits-aspectos-gerais-e-conceituais-8b34f339b.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Deficits - aspectos gerais e conceituais [8b34f339b]/02.Editoração/.outros/Marcacao/Deficits - aspectos gerais e conceituais [8b34f339b] - video.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Organização curricular no Ensino Superior [d9539f243]/02.Editoração/.outros/Marcacao/Organização curricular no Ensino Superior [d9539f243] - video.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Neuropedagogia Aplicada [81baeeae4]/02.Editoração/02.3.Marcacao/neuropedagogia-aplicada-81baeeae4.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Neuropedagogia Aplicada [81baeeae4]/02.Editoração/02.3.Marcacao/Neuropedagogia Aplicada [81baeeae4] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Organização curricular no Ensino Superior [d9539f243]/02.Editoração/02.3.Marcacao/Organização curricular no Ensino Superior [d9539f243] - video.txt",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Dimensões da escola - currículo e projeto político pe... [1b0dce061]/02.Editoração/.outros/Exportado Indesign/Dimensões da escola ... [1b0dce061] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Dimensões da escola - currículo e projeto político pe... [1b0dce061]/02.Editoração/.outros/Exportado Indesign/Dimensões da escola ... [1b0dce061] - pre-pos-textual - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Didática no Ensino do homem e natureza - Matemática, C... [d4e321fb4]/02.Editoração/.outros/Exportado Indesign/Didática no Ensino do ... [d4e321fb4] - unidade i - marcacao.html",
+		"/D/projeto/web/vg/livroDigital/php/parse/parse.clean.coffee",
+		"/D/projeto/web/vg/livroDigital/php/parse/index.php",
+		"/D/projeto/web/vg/livroDigital/php/parse/parse.anima.coffee",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Publicidade e Propaganda para Consultorias [de4856e3b]/02.Editoração/.outros/Exportado Indesign/Publicidade e Propaganda para Consultorias [de4856e3b] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Publicidade e Propaganda para Consultorias [de4856e3b]/02.Editoração/.outros/Exportado Indesign/Publicidade e Propaganda para Consultorias [de4856e3b] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Agronegócio - Características, Perspectivas e Comércio... [225896fa5]/02.Editoração/.outros/Exportado Indesign/Agronegócio - Características ... [225896fa5] - pre-pos-textual - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Agronegócio - Características, Perspectivas e Comércio... [225896fa5]/02.Editoração/.outros/Exportado Indesign/Agronegócio - Características ... [225896fa5] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Coaching - Ferramentas e Técnicas [8e8dfeb06]/02.Editoração/.outros/Exportado Indesign/Coaching - Ferramentas e Técnicas [8e8dfeb06] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Finanças Empresariais [9dbd13461]/02.Editoração/.outros/Exportado Indesign/Finanças Empresariais [9dbd13461] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Finanças Empresariais [9dbd13461]/02.Editoração/.outros/Exportado Indesign/Finanças Empresariais [9dbd13461] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Pesquisa em Marketing [84b93b249]/02.Editoração/.outros/Exportado Indesign/Pesquisa em Marketing [84b93b249] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Pesquisa em Marketing [84b93b249]/02.Editoração/.outros/Exportado Indesign/Pesquisa em Marketing [84b93b249] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Coaching - Ferramentas e Técnicas [8e8dfeb06]/02.Editoração/.outros/Exportado Indesign/Coaching - Ferramentas e Técnicas [8e8dfeb06] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Finanças para micro e pequenas empresas [624867357]/02.Editoração/.outros/Exportado Indesign/Finanças para micro e pequenas empresas [624867357] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Recrutamento e Seleção [f4dc04742]/02.Editoração/.outros/Exportado Indesign/Recrutamento e Seleção [f4dc04742] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Recrutamento e Seleção [f4dc04742]/02.Editoração/.outros/Exportado Indesign/Recrutamento e Seleção [f4dc04742] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Sistema de Informações Geográficas [7b41d491b]/02.Editoração/.outros/Exportado Indesign/Sistema de Informações Geográficas [7b41d491b] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/02.Editoração/.outros/Exportado Indesign/Auditoria Ambiental [131ea6d42] - pre-pos-textual (1).html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/02.Editoração/.outros/Exportado Indesign/Auditoria Ambiental [131ea6d42] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Sistema de Informações Geográficas [7b41d491b]/02.Editoração/.outros/Exportado Indesign/Sistema de Informações Geográficas [7b41d491b] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Nutrição e suplementação aplicada ao alto rendimento [023298ae6]/02.Editoração/.outros/Exportado Indesign/Nutrição e suplementação aplicada ao alto rendimento [023298ae6] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Metodologia da Educação Ambiental [282283c54]/02.Editoração/.outros/Exportado Indesign/Metodologia da Educação Ambiental [282283c54] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Metodologia da Educação Ambiental [282283c54]/02.Editoração/.outros/Exportado Indesign/Metodologia da Educação Ambiental [282283c54] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Nutrição e suplementação aplicada ao alto rendimento [023298ae6]/02.Editoração/.outros/Exportado Indesign/Nutrição e suplementação aplicada ao alto rendimento [023298ae6] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Fisiopatologia e síndromes geriátricas [8f01de42f]/02.Editoração/.outros/Exportado Indesign/Fisiopatologia e síndromes geriátricas [8f01de42f] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Fisiopatologia e síndromes geriátricas [8f01de42f]/02.Editoração/.outros/Exportado Indesign/Fisiopatologia e síndromes geriátricas [8f01de42f] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Transtornos psiquiátricos durante a gestação, na cria... [28191e651]/02.Editoração/.outros/Exportado Indesign/Transtornos psiquiátricos ... [28191e651] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Tratamento multidisciplinar aplicado à obesidade [c8dbf2905]/02.Editoração/.outros/Exportado Indesign/Tratamento multidisciplinar aplicado à obesidade [c8dbf2905] - unidade i - marcacao.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/Bioquímica Aplicada ao Exercício Físico [911a54317]/02.Editoração/.outros/Exportado Indesign/Bioquímica Aplicada ao Exercício Físico [911a54317] - pre-pos-textual.html",
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/Bioquímica Aplicada ao Exercício Físico [911a54317]/02.Editoração/.outros/Exportado Indesign/Bioquímica Aplicada ao Exercício Físico [911a54317] - unidade i - marcacao.html"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open files>",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
+			"D:\\projeto\\web\\vg\\livroDigital\\style",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
+			"D:\\projeto\\web\\vg\\livroDigital",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
+			"D:\\projeto\\web\\vg\\livroDigital\\style",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
+			"D:\\projeto\\web\\vg\\livroDigital\\dist\\v.0.1.0",
+			"D:\\projeto\\web\\vg\\livroDigital",
+			"D:\\projeto\\web\\vg\\livroDigital\\style",
+			"D:\\projeto\\web\\vg\\livroDigital",
+			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\bootstrap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"- Didática -->",
+			" - Didática -",
+			"- Didática",
+			"<!--",
+			"	",
+			"href=\"",
+			"src=\"js",
+			"Titulo = ",
+			"https://drive.google.com/open?id=",
+			"<div data-book-graphic-item>",
+			"></",
+			"Titulo = ",
+			"https://drive.google.com/open?id=",
+			"<p data-book-legenda>",
+			"Titulo = ",
+			"https://drive.google.com/open?id=",
+			"<div data-book-graphic-item>",
+			"Titulo = ",
+			"ttps://drive.google.com/open?id=",
+			"Titulo = ",
+			"asy",
+			"_math_%",
+			"_math",
+			"</script>",
+			"</script> ",
+			"</script>",
+			"R_S",
+			"$",
+			"R$",
+			"$",
+			"unidade-i",
+			"--",
+			"	",
+			"<referencias_p>",
+			"Titulo = ",
+			"<div data-book-graphic-item>",
+			"Titulo = ",
+			"<p data-book-legenda>",
+			"Titulo = ",
+			"( )",
+			"<p data-book-legenda>",
+			"Titulo = ",
+			"<p data-book-legenda>",
+			"Titulo = ",
+			"<!-- Disciplina:",
+			"<p data-book-legenda>",
+			"Titulo = ",
+			"<span data-book-autor-titulacao-item>[",
+			"Titulo = ",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			"Titulo =",
+			"Prof.ª Me. ",
+			"Titulo = ",
+			"Titulo =",
+			"Titulo = ",
+			"Titulo =",
+			"Titulo = ",
+			"<div data-book-graphic-item></div>",
+			"Titulo = ",
+			"<p data-book-legenda></p>",
+			"Titulo = ",
+			"<p data-book-legenda>",
+			"<h2>",
+			"<div data-book-graphic-item></div>",
+			"<p data-book-legenda>",
+			"<div data-book-graphic-item>",
+			"<p data-book-legenda>",
+			"article_",
+			"Titulo = ",
+			"https://drive.google.com/open?id=",
+			" (6-10min)",
+			"Titulo = ",
+			"Vídeo",
+			"Titulo = ",
+			") – [",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			"Vídeo",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			"Vídeo",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			") –",
+			"Titulo = ",
+			") – ",
+			" (6-10min)",
+			"Titulo = ",
+			"Vídeo",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			" –Parte",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			"– ",
+			"Vídeo",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			" – [",
+			"0B0saOBoxeYS_ajg0eWVtc3JXN0k",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			" – ",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			") –",
+			"Titulo = ",
+			" - (6-10min)",
+			". (6-10min)",
+			"Vídeo",
+			"Titulo = ",
+			" (6-10min)",
+			"Vídeo",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			"Vídeo",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			"(6 a 10 min.) –",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			"(6 a 10 min.) –",
+			"https://drive.google.com/open?id=",
+			"Titulo = ",
+			"– [",
+			"Titulo = ",
+			"	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"R$",
+			"_math_",
+			"R_S",
+			"&#160;",
+			"<i>et al.</i>",
+			"tb-header",
+			"tb-td-result",
+			"<br>",
+			"</span>",
+			"<span data-book-fonte>",
+			"</i></b>",
+			"<b><i>",
+			"",
+			"</i></b>",
+			"<b><i>",
+			"",
+			"&#160;",
+			"<i>et al.</i>",
+			"tb-header",
+			"tb-td-result",
+			"<br>",
+			"</span>",
+			"<span data-book-fonte>",
+			"<b><i>",
+			"",
+			"degradadas",
+			"",
+			"_math_",
+			"<div data-book-graphic-item></div>",
+			"<p data-book-legenda></p>",
+			"anima",
+			"uniube",
+			"matriz",
+			"Kanban",
+			"unidade.4.pdf",
+			"unidade.2.pdf",
+			"unidade.3.pdf",
+			"unidade.2.pdf",
+			"unidade.1.pdf",
+			"h1>",
+			"",
+			"p>",
+			"<p data-book-fonte=\"fonte\">",
+			"</p>",
+			"p>",
+			"<p data-book-section-label=\"Ano\">",
+			"<p data-book-section-label=\"ISBN\">",
+			"<p data-book-section-label=\"Editora\">",
+			"<p data-book-section-label=\"Nome do livro\">",
+			"<atividade_fim>&#160;</atividade_fim>",
+			"<p>&#160;</p>",
+			"<br>",
+			"",
+			"h1>",
+			"\n",
+			"",
+			"<i>Print</i>",
+			"p>",
+			"<br>",
+			"\\n\\t\\t<br>",
+			"\\n<br>",
+			"",
+			"<p>&#160;</p>",
+			"",
+			"</i></b>",
+			"<b><i>",
+			"</i></b>",
+			"<b><i>",
+			"",
+			"p>",
+			"</span>",
+			"<span data-book-fonte>",
+			"",
+			"&#160;",
+			"",
+			"p>",
+			"<p data-book-section-label=\"ISBN\">",
+			"<p data-book-section-label=\"Editora\">",
+			"<p data-book-section-label=\"Autor\">",
+			"<p data-book-section-label=\"Nome do livro\">",
+			"<atividade_fim>&#160;</atividade_fim>",
+			"p>",
+			"<p",
+			"",
+			"p>",
+			"			<article>",
+			"",
+			"p>",
+			"",
+			"0B0saOBoxeYS_cGtxcFB0bFlZZmM",
+			"unidade.3",
+			"unidade.2.pdf",
+			"unidade.3.pdf",
+			"unidade.4.pdf",
+			"unidade.1.pdf",
+			"0B0saOBoxeYS_Yk1UTy1xVmE1Njg",
+			"0B0saOBoxeYS_TVZLOTdodnFkRnM",
+			"0B0saOBoxeYS_RkRXVk1SUmI3aEU",
+			"0B0saOBoxeYS_eEt2bU5qMGluT0U",
+			"0B0saOBoxeYS_UFhHUHJ4QUxacGc",
+			"0B0saOBoxeYS_VktDYlNxZ1FRaTQ",
+			"0B0saOBoxeYS_UzNRR0lDS2tLWnc",
+			"0B0saOBoxeYS_WDJVRy1oM1VSSkU",
+			"0B0saOBoxeYS_d090aEVmWWQwMWM",
+			"0B0saOBoxeYS_LXJteFNEY1dTRFE",
+			"0B0saOBoxeYS_bGtDenlIOXc5MnM",
+			"0B0saOBoxeYS_Ql85YnFHSFptaTg",
+			"0B0saOBoxeYS_bzAzWjBUT2w5WWs",
+			"0B0saOBoxeYS_dWQ1TGRBcjNHUkU",
+			"0B0saOBoxeYS_MzRDMlo5a0Rrb1U",
+			"0B0saOBoxeYS_SjIwQmJINE9KU3c",
+			"0B0saOBoxeYS_a2V6Z05oemNDdms",
+			"0B0saOBoxeYS_SFlZQ2hfbWN6SEU",
+			"0B0saOBoxeYS_X1ZqTXU2SVVvbjQ",
+			"0B0saOBoxeYS_V05kLVR4SzZOcVU",
+			"0B0saOBoxeYS_UXJESERNa25fRUU",
+			"0B0saOBoxeYS_WUt5X0w0aWZxNkE",
+			"0B0saOBoxeYS_YnVmUWVuR0FuX2M",
+			"0B0saOBoxeYS_Sk5UMW0ySE5nTTQ",
+			"0B0saOBoxeYS_enNfV19sM2Jsckk",
+			"0B0saOBoxeYS_YXJUR1pWZUpBdUU",
+			"0B0saOBoxeYS_LVlEYlUyYUQzcDA",
+			"h1>",
+			"</span>",
+			"<span class=\"label\">",
+			"</p>",
+			"</span>",
+			"<p data-book-fonte=\"acesso\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cafenamontanha.casa.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bo",
+				"php\\book.php"
+			],
+			[
+				"book.",
+				"php\\book.php"
+			],
+			[
+				"tipo",
+				"style\\less\\app\\tipografia.less"
+			],
+			[
+				"icon",
+				"style\\less\\app\\icons.less"
+			],
+			[
+				"parse",
+				"php\\scripts\\parse.coffee"
+			],
+			[
+				"ou",
+				"style\\less\\app\\outros.less"
+			],
+			[
+				"app.le",
+				"style\\app.less"
+			],
+			[
+				"app",
+				"scripts\\app.coffee"
+			],
+			[
+				"config",
+				"php\\._.config.php"
+			],
+			[
+				"lesstipo",
+				"style\\less\\app\\tipografia.less"
+			],
+			[
+				"lesstype",
+				"style\\less\\bootstrap\\type.less"
+			],
+			[
+				".coff",
+				"php\\scripts\\parse.coffee"
+			],
+			[
+				"fun",
+				"php\\functions.php"
+			],
+			[
+				"index",
+				"php\\index.php"
+			],
+			[
+				"func",
+				"php\\functions.php"
+			],
+			[
+				"html",
+				"lab\\scripts\\htmlConstruct.coffee"
+			],
+			[
+				"inde",
+				"php\\index.php"
+			],
+			[
+				"outr",
+				"style\\less\\app\\outros.less"
+			],
+			[
+				"ourt",
+				"style\\less\\app\\outros.less"
+			],
+			[
+				"refe",
+				"sources\\referencias.src"
+			],
+			[
+				"nav",
+				"lab\\html_construct\\nav-bar.src"
+			],
+			[
+				"ccapa",
+				"sources\\capa.src"
+			],
+			[
+				"refere",
+				"sources\\referencias.src"
+			],
+			[
+				"nav-",
+				"style\\less\\app\\nav-bar.less"
+			],
+			[
+				"capa",
+				"sources\\capa.src"
+			],
+			[
+				"pages",
+				"style\\less\\app\\pages.less"
+			],
+			[
+				"cap",
+				"sources\\capa.src"
+			],
+			[
+				"outo",
+				"style\\less\\app\\outros.less"
+			],
+			[
+				"page",
+				"style\\less\\app\\pages.less"
+			],
+			[
+				"anima",
+				"style\\less\\app\\animate.less"
+			],
+			[
+				"varia",
+				"style\\less\\bootstrap\\variables.less"
+			],
+			[
+				"pa",
+				"style\\less\\app\\pages.less"
+			],
+			[
+				"cover",
+				"style\\less\\app\\cover.less"
+			],
+			[
+				"ani",
+				"style\\less\\app\\animate.less"
+			],
+			[
+				"gr",
+				"style\\less\\bootstrap\\mixins\\grid-framework.less"
+			],
+			[
+				"ca",
+				"style\\less\\app\\capitulo.less"
+			],
+			[
+				"glo",
+				"style\\less\\app\\globais.less"
+			],
+			[
+				"ap",
+				"scripts\\app.coffee"
+			],
+			[
+				"sum",
+				"style\\less\\app\\sumario.less"
+			],
+			[
+				"sumario",
+				"sources\\sumario.src"
+			],
+			[
+				"ico",
+				"style\\less\\app\\icons.less"
+			],
+			[
+				"map",
+				"sources\\map.src"
+			],
+			[
+				"t",
+				"style\\less\\app\\tipografia.less"
+			],
+			[
+				"capo",
+				"sources\\capitulo.content.src"
+			],
+			[
+				"capi",
+				"style\\less\\app\\capitulo.less"
+			],
+			[
+				"capituloconte",
+				"sources\\capitulo.content.src"
+			],
+			[
+				"capitulo",
+				"style\\less\\app\\capitulo.less"
+			],
+			[
+				"icons",
+				"style\\less\\app\\icons.less"
+			],
+			[
+				"vaira",
+				"style\\less\\bootstrap\\variables.less"
+			],
+			[
+				"capituloless",
+				"style\\less\\app\\capitulo.less"
+			],
+			[
+				"app.less",
+				"style\\app.less"
+			],
+			[
+				"gride",
+				"style\\less\\bootstrap\\mixins\\grid-framework.less"
+			],
+			[
+				"sourcecapitulo",
+				"sources\\capitulo.i.src"
+			],
+			[
+				"aprese",
+				"style\\less\\app\\apresentacao.less"
+			],
+			[
+				"aper",
+				"style\\less\\app\\apresentacao.less"
+			],
+			[
+				"ti",
+				"style\\less\\app\\tipografia.less"
+			],
+			[
+				"apre",
+				"sources\\apresentacao.video.src"
+			],
+			[
+				"apres",
+				"sources\\apresentacao.src"
+			],
+			[
+				"menu",
+				"sources\\menu-bar.src"
+			],
+			[
+				"app.",
+				"scripts\\app.coffee"
+			],
+			[
+				"src",
+				"sources\\apresentacao.src"
+			],
+			[
+				"var",
+				"style\\less\\bootstrap\\variables.less"
+			],
+			[
+				"lesssumario",
+				"style\\less\\app\\sumario.less"
+			],
+			[
+				"lesspages",
+				"style\\less\\app\\pages.less"
+			],
+			[
+				"lessicon",
+				"style\\less\\app\\icons.less"
+			],
+			[
+				"tipogra",
+				"style\\less\\app\\tipografia.less"
+			],
+			[
+				"lessapp",
+				"style\\less\\app\\nav-bar.less"
+			],
+			[
+				"scri",
+				"sources\\scripts.src"
+			],
+			[
+				"anim",
+				"style\\less\\app\\animate.less"
+			],
+			[
+				"coverless",
+				"style\\less\\app\\cover.less"
+			],
+			[
+				"coffee",
+				"php\\scripts\\default.coffee"
+			],
+			[
+				"confi",
+				"php\\._.config.php"
+			],
+			[
+				"fnc",
+				"php\\functions.php"
+			],
+			[
+				"funct",
+				"_src\\functions.php"
+			],
+			[
+				"igno",
+				".gitignore"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"grid",
+				"style\\less\\bootstrap\\mixins\\grid.less"
+			],
+			[
+				"mixis",
+				"style\\less\\bootstrap\\mixins.less"
+			],
+			[
+				"boo",
+				"style\\bootstrap.less"
+			],
+			[
+				"",
+				"style\\app.less"
+			],
+			[
+				"less.inc",
+				"vendor\\php\\lessc.inc.php"
+			],
+			[
+				".config",
+				"admin\\._.config.php"
+			],
+			[
+				"vendor/php/",
+				"vendor\\php\\lessc.inc.php"
+			],
+			[
+				"admin/",
+				"admin\\index.php"
+			],
+			[
+				"suma",
+				"estrutura\\sumario.php"
+			],
+			[
+				"s",
+				"estrutura\\sumario.php"
+			],
+			[
+				"nav-bar",
+				"style\\less\\app\\nav-bar.less"
+			],
+			[
+				"outros",
+				"style\\less\\app\\outros.less"
+			],
+			[
+				"outro",
+				"style\\less\\app\\outros.less"
+			],
+			[
+				"perfec",
+				"vendor\\js\\perfect-scrollbar.jquery.js"
+			],
+			[
+				"per",
+				"vendor\\js\\perfect-scrollbar.js"
+			],
+			[
+				"perfe",
+				"_src\\Estudos\\perfect-scrollbar.url"
+			],
+			[
+				"tabe",
+				"style\\less\\app\\tabela.less"
+			],
+			[
+				"ty",
+				"style\\less\\bootstrap\\type.less"
+			],
+			[
+				"gri",
+				"style\\less\\bootstrap\\mixins\\grid-framework.less"
+			],
+			[
+				"vari",
+				"style\\less\\bootstrap\\variables.less"
+			],
+			[
+				"nav-ba",
+				"estrutura\\nav-bar.html"
+			],
+			[
+				"nav-b",
+				"style\\less\\app\\nav-bar.less"
+			],
+			[
+				"tab",
+				"style\\less\\app\\tabela.less"
+			],
+			[
+				"text",
+				"estrutura\\estrutura.text.html"
+			],
+			[
+				"estru",
+				"estrutura\\estrutura.full.html"
+			],
+			[
+				"conf",
+				"admin\\._.config.php"
+			],
+			[
+				"ut",
+				"style\\less\\bootstrap\\utilities.less"
+			],
+			[
+				"na",
+				"style\\less\\bootstrap\\navbar.less"
+			],
+			[
+				"out",
+				"style\\less\\app\\outros.less"
+			],
+			[
+				"con",
+				"style\\._.config.less"
+			],
+			[
+				"tool",
+				"style\\less\\bootstrap\\tooltip.less"
+			],
+			[
+				"slider",
+				"style\\less\\bootstrap\\slider\\rules.less"
+			],
+			[
+				"g",
+				"style\\less\\app\\globais.less"
+			],
+			[
+				"appless",
+				"style\\less\\app\\tipografia.less"
+			],
+			[
+				"va",
+				"style\\less\\bootstrap\\variables.less"
+			],
+			[
+				".confi",
+				"admin\\._.config.php"
+			],
+			[
+				"lesscover",
+				"style\\less\\app\\cover.less"
+			],
+			[
+				"estrutura",
+				"estrutura\\estrutura.text.html"
+			],
+			[
+				"code",
+				"assets\\style\\less\\bootstrap\\code.less"
+			],
+			[
+				"sca",
+				"assets\\style\\less\\bootstrap\\scaffolding.less"
+			],
+			[
+				"gly",
+				"assets\\style\\less\\bootstrap\\glyphicons.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\projeto\\web\\livrodigital\\_src\\SublimeText\\livrodigitalpro.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
