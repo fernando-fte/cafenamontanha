@@ -2,7 +2,7 @@
 <head>
 	<!-- TODO: Adicionar CEO -->
 
-	<title><?php echo $page['home']['title']; ?></title>
+	<title><?php echo $pagina['home']['title']; ?></title>
 
 	<!-- VENDOR: Boostatrap CSS 
 	<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap/css/bootstrap.min.css">

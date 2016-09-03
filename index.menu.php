@@ -34,7 +34,7 @@
 
 				<!-- Carrinho de compra -->
 				<li>
-					<a href="carrinho/"><i class="fa fa-shopping-cart" aria-hidden="true"></i> R$ <?php echo $user['carrinho']['valor']; ?></a>
+					<a href="carrinho/"><i class="fa fa-shopping-cart" aria-hidden="true"></i> R$ <?php echo $usuario['carrinho']['valor']; ?></a>
 				</li>
 
 				<!-- Usuario -->
@@ -46,7 +46,7 @@
 					   role="button" 
 					   aria-haspopup="true" 
 					   aria-expanded="false"
-					><?php echo $user['nome']['primeiro nome']; ?> <span class="caret"></span></a>
+					><?php echo $usuario['nome']['primeiro nome']; ?> <span class="caret"></span></a>
 
 					<ul class="dropdown-menu">
 						<li><a href="usuario/compras/">Minhas compras</a></li>

@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"key",
+				"array_keys"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
 				"b",
 				"background-color"
 			],
@@ -304,10 +312,6 @@
 				"toggleClass"
 			],
 			[
-				"pa",
-				"padding-top"
-			],
-			[
 				"le",
 				"length"
 			],
@@ -510,30 +514,11 @@
 			[
 				"su",
 				"success"
-			],
-			[
-				"gett",
-				"gettype"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/index.html",
-			"settings":
-			{
-				"buffer_size": 336,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -571,7 +556,7 @@
 				"Package Control: Add Channel"
 			]
 		],
-		"width": 400.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -594,12 +579,28 @@
 	[
 		"/D/fernanado.fte/Projetos/cafenamontanha/Loja",
 		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src",
-		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word"
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/assets/library",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/config"
 	],
 	"file_history":
 	[
-		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/index.php",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/assets/library/style/app.less",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/index.produto.list.php",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/index.php",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/config/index.php",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.trash/trash_code.php",
+		"/C/Users/Usuário/Desktop/teste.json",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/index.head.php",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/index.menu.php",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/home.topo.php",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/assets/library/scripts/app.coffee",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/index.scripts.php",
+		"/D/projeto/web/fte/LoveMyCandidato/index.php",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/assets/vendor/bootstrap/style/bootstrap.less",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/ftpsync.settings",
 		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/index.html",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/ftpsync.settings",
+		"/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/index.php",
 		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Bioquímica Aplicada ao Exercício Físico [911a54317]/02.Editoração/.outros/Exportado Indesign/Bioquímica Aplicada ao Exercício Físico [911a54317] - unidade ii - marcacao.html",
 		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Organização curricular no Ensino Superior [d9539f243]/02.Editoração/.outros/Exportado Indesign/Organização curricular no Ensino Superior [d9539f243] - unidade ii - marcacao.html",
 		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 7/Prática empreendedora [29a4f9202]/02.Editoração/02.3.Marcacao/pratica-empreendedora-29a4f9202.html",
@@ -710,32 +711,18 @@
 		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Pesquisa em Marketing [84b93b249]/02.Editoração/.outros/Exportado Indesign/Pesquisa em Marketing [84b93b249] - unidade i - marcacao.html",
 		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Coaching - Ferramentas e Técnicas [8e8dfeb06]/02.Editoração/.outros/Exportado Indesign/Coaching - Ferramentas e Técnicas [8e8dfeb06] - unidade i - marcacao.html",
 		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Finanças para micro e pequenas empresas [624867357]/02.Editoração/.outros/Exportado Indesign/Finanças para micro e pequenas empresas [624867357] - pre-pos-textual.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Recrutamento e Seleção [f4dc04742]/02.Editoração/.outros/Exportado Indesign/Recrutamento e Seleção [f4dc04742] - pre-pos-textual.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Recrutamento e Seleção [f4dc04742]/02.Editoração/.outros/Exportado Indesign/Recrutamento e Seleção [f4dc04742] - unidade i - marcacao.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Sistema de Informações Geográficas [7b41d491b]/02.Editoração/.outros/Exportado Indesign/Sistema de Informações Geográficas [7b41d491b] - unidade i - marcacao.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/02.Editoração/.outros/Exportado Indesign/Auditoria Ambiental [131ea6d42] - pre-pos-textual (1).html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/02.Editoração/.outros/Exportado Indesign/Auditoria Ambiental [131ea6d42] - unidade i - marcacao.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Sistema de Informações Geográficas [7b41d491b]/02.Editoração/.outros/Exportado Indesign/Sistema de Informações Geográficas [7b41d491b] - pre-pos-textual.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Nutrição e suplementação aplicada ao alto rendimento [023298ae6]/02.Editoração/.outros/Exportado Indesign/Nutrição e suplementação aplicada ao alto rendimento [023298ae6] - unidade i - marcacao.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Metodologia da Educação Ambiental [282283c54]/02.Editoração/.outros/Exportado Indesign/Metodologia da Educação Ambiental [282283c54] - pre-pos-textual.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Metodologia da Educação Ambiental [282283c54]/02.Editoração/.outros/Exportado Indesign/Metodologia da Educação Ambiental [282283c54] - unidade i - marcacao.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Nutrição e suplementação aplicada ao alto rendimento [023298ae6]/02.Editoração/.outros/Exportado Indesign/Nutrição e suplementação aplicada ao alto rendimento [023298ae6] - pre-pos-textual.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Fisiopatologia e síndromes geriátricas [8f01de42f]/02.Editoração/.outros/Exportado Indesign/Fisiopatologia e síndromes geriátricas [8f01de42f] - unidade i - marcacao.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Fisiopatologia e síndromes geriátricas [8f01de42f]/02.Editoração/.outros/Exportado Indesign/Fisiopatologia e síndromes geriátricas [8f01de42f] - pre-pos-textual.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Transtornos psiquiátricos durante a gestação, na cria... [28191e651]/02.Editoração/.outros/Exportado Indesign/Transtornos psiquiátricos ... [28191e651] - unidade i - marcacao.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Tratamento multidisciplinar aplicado à obesidade [c8dbf2905]/02.Editoração/.outros/Exportado Indesign/Tratamento multidisciplinar aplicado à obesidade [c8dbf2905] - unidade i - marcacao.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/Bioquímica Aplicada ao Exercício Físico [911a54317]/02.Editoração/.outros/Exportado Indesign/Bioquímica Aplicada ao Exercício Físico [911a54317] - pre-pos-textual.html",
-		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Auditoria Ambiental [131ea6d42]/Bioquímica Aplicada ao Exercício Físico [911a54317]/02.Editoração/.outros/Exportado Indesign/Bioquímica Aplicada ao Exercício Físico [911a54317] - unidade i - marcacao.html"
+		"/D/Google Drive/.Projetos/Unipar/Livro Digital/Lote 8/Recrutamento e Seleção [f4dc04742]/02.Editoração/.outros/Exportado Indesign/Recrutamento e Seleção [f4dc04742] - pre-pos-textual.html"
 	],
 	"find":
 	{
-		"height": 21.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
 		"height": 90.0,
 		"where_history":
 		[
+			"D:\\fernanado.fte\\Projetos\\cafenamontanha\\Loja",
 			"<open files>",
 			"D:\\projeto\\web\\vg\\livroDigital\\style\\less\\app",
 			"D:\\projeto\\web\\vg\\livroDigital\\style",
@@ -767,6 +754,27 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'P00000",
+			"'P0000",
+			"'P00000",
+			"'2'",
+			"800x600",
+			"'2'",
+			" ",
+			"logo",
+			"$nagevacao['home']['destaque']",
+			"u",
+			"$i",
+			"\"P000002\"",
+			"$page",
+			"page",
+			"user",
+			"   ",
+			"/<?php echo $user['id']; ?>",
+			"bs-example-navbar-collapse-1",
+			"#bs-example-navbar-collapse-1",
+			"<!-- ",
+			"  ",
 			"- Didática -->",
 			" - Didática -",
 			"- Didática",
@@ -873,28 +881,7 @@
 			" – ",
 			"https://drive.google.com/open?id=",
 			"Titulo = ",
-			") –",
-			"Titulo = ",
-			" - (6-10min)",
-			". (6-10min)",
-			"Vídeo",
-			"Titulo = ",
-			" (6-10min)",
-			"Vídeo",
-			"https://drive.google.com/open?id=",
-			"Titulo = ",
-			"Vídeo",
-			"https://drive.google.com/open?id=",
-			"Titulo = ",
-			"(6 a 10 min.) –",
-			"https://drive.google.com/open?id=",
-			"Titulo = ",
-			"(6 a 10 min.) –",
-			"https://drive.google.com/open?id=",
-			"Titulo = ",
-			"– [",
-			"Titulo = ",
-			"	"
+			") –"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1040,65 +1027,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/D/fernanado.fte/Projetos/cafenamontanha/Loja/.src/hello.word/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 336,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								336,
-								336
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1141,7 +1071,7 @@
 	"project": "cafenamontanha.casa.sublime-project",
 	"replace":
 	{
-		"height": 38.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1150,6 +1080,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"config",
+				"config\\index.php"
+			],
+			[
+				"app.le",
+				"assets\\library\\style\\app.less"
+			],
 			[
 				"bo",
 				"php\\book.php"
@@ -1175,16 +1113,8 @@
 				"style\\less\\app\\outros.less"
 			],
 			[
-				"app.le",
-				"style\\app.less"
-			],
-			[
 				"app",
 				"scripts\\app.coffee"
-			],
-			[
-				"config",
-				"php\\._.config.php"
 			],
 			[
 				"lesstipo",

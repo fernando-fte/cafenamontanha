@@ -7,7 +7,7 @@
 
 		<?php include 'home.topo.php'; ?>
 
-		<?php include 'index.produtos.php'; ?>
+		<?php include 'index.produto.list.php'; ?>
 
 		<?php include 'index.scripts.php'; ?>
 	</body>
